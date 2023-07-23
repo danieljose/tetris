@@ -17,15 +17,19 @@ This version of Tetris includes all the classic functionalities, such as line co
 
 ### Installing
 
+```
 git clone https://github.com/cdani/TetrisGame.git
 cd TetrisGame
 pip install -r requirements.txt
 python tetris.py
+```
 
 ### Usage
 
 To start the game, run the following command:
+```
 python tetris.py
+```
 
 ## Controls
 
